@@ -1,0 +1,20 @@
+{
+   "name": "interview-algo-bootcamp",
+   "version": "1.0.0",
+   "description":
+      "A course of Interview Algorithms & White Board questionairs w/ solutions",
+   "main": "index.js",
+   "scripts": {
+      "test": "jest"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Lone-DO/Interview-Algo-Bootcamp.git"
+   },
+   "author": "@StephenGrider",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/Lone-DO/Interview-Algo-Bootcamp/issues"
+   },
+   "homepage": "https://github.com/Lone-DO/Interview-Algo-Bootcamp#readme"
+}
